@@ -1,16 +1,11 @@
 ### Hi there! I'm Humberto 👋
 
-<!--
-**humbertobarbosa/humbertobarbosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-I'm a Computer Science Student at Universidade Federal de Alagoas (UFAL) and Computer Technician at Instituto Federal de Alagoas (IFAL).
+<b>I'm a Computer Science Student at Universidade Federal de Alagoas (UFAL) and Computer Technician at Instituto Federal de Alagoas (IFAL).</b>
 
 - 🔭 Currently programming in Python and Java
 - 💻 Using C and C++ for math algorithms
 - 🌱 Interested in studying JavaScript frameworks
--->
+
 <div style="display: inline_block">
   <img align="center" alt="bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
