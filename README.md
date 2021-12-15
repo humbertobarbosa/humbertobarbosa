@@ -6,7 +6,7 @@
 - 💻 Using C and C++ for math algorithms
 - 🌱 Interested in studying JavaScript frameworks
 
-<div style="display: inline_block">
+<div style="display: inline_block"><br>
   <img align="center" alt="bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
