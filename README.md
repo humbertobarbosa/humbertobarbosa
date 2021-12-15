@@ -6,7 +6,7 @@
 - 💻 Using C and C++ for math algorithms
 - 🌱 Interested in studying JavaScript frameworks
 
-<b>Skills</b>
+<b>Skills</b><br>
   ![](https://img.shields.io/badge/Python-2d3436?style=for-the-badge&logo=python&logoColor=f1c40f)
 
 <!--
