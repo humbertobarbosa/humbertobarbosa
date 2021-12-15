@@ -1,4 +1,4 @@
-### Hi there! I'm Humberto 👋
+### <h2>Hi there! I'm Humberto 👋</h2>
 
 <b>I'm a Computer Science Student at Universidade Federal de Alagoas (UFAL) and Computer Technician at Instituto Federal de Alagoas (IFAL).</b>
 
