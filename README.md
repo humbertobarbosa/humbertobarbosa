@@ -1,10 +1,10 @@
-# Hi there! I'm Humberto 👋
+# Hi there! I'm Humberto!
 
 ### I'm a Computer Science Student at Universidade Federal de Alagoas (UFAL) and Computer Technician at Instituto Federal de Alagoas (IFAL)
 
-- 🔭 Currently programming in Python and Java
-- 💻 Using C and C++ for math algorithms
-- 🌱 Interested in studying JavaScript frameworks
+- Currently programming in Python and Java
+- Using C and C++ for math algorithms xD
+- Interested in front-end web development
 
 #### ⚡ Skills:
   ![](https://img.shields.io/badge/C-2d3436?style=for-the-badge&logo=c&logoColor=white)
