@@ -6,8 +6,6 @@
 - Interested in front-end web development
 
 #### ⚡ Skills:
-  ![](https://img.shields.io/badge/C-2d3436?style=for-the-badge&logo=c&logoColor=white)
-  ![](https://img.shields.io/badge/C%2B%2B-2d3436?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![](https://img.shields.io/badge/Python-2d3436?style=for-the-badge&logo=python&logoColor=white)
   ![](https://img.shields.io/badge/Java-2d3436?style=for-the-badge&logo=java&logoColor=white)
   ![](https://img.shields.io/badge/MySQL-2d3436?style=for-the-badge&logo=mysql&logoColor=white)
