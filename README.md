@@ -2,7 +2,7 @@
 
 ### I'm a Computer Science Student at Universidade Federal de Alagoas (UFAL) and Computer Technician at Instituto Federal de Alagoas (IFAL)
 
-- I love math and competitive programming
+- I love math, competitive programming and design
 - Interested in front-end web development
 
 #### ⚡ Skills:
@@ -13,3 +13,5 @@
   ![](https://img.shields.io/badge/HTML5-2d3436?style=for-the-badge&logo=html5&logoColor=white)
   ![](https://img.shields.io/badge/CSS3-2d3436?style=for-the-badge&logo=css3&logoColor=white)
   ![](https://img.shields.io/badge/Bootstrap-2d3436?style=for-the-badge&logo=bootstrap&logoColor=white)
+  ![](https://img.shields.io/badge/Photoshop-2d3436?style=for-the-badge&logo=adobephotoshop&logoColor=white)
+  ![](https://img.shields.io/badge/Illustrator-2d3436?style=for-the-badge&logo=adobeillustrator&logoColor=white)
