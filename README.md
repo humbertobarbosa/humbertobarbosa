@@ -1,5 +1,5 @@
 ## quem sou eu 🧛🏻
-meu nome é humberto! tenho 20 anos, sou designer gráfico, técnico em informática (IFAL) e estudante de ciência da computação (UFAL). meu objetivo atual é alcançar a primeira oportunidade profissional em desenvolvimento web front-end.
+meu nome é humberto! tenho 20 anos, sou designer gráfico, técnico em informática (IFAL) e estudante de ciência da computação (UFAL). meu interesse atual é evoluir na área de desenvolvimento web front-end.
 
 ## design skills 💡
 <div>
