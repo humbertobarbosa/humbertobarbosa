@@ -1,15 +1,8 @@
 ## quem sou eu 🧛🏻
 meu nome é humberto! tenho 20 anos, sou designer gráfico, técnico em informática (IFAL) e estudante de ciência da computação (UFAL). meu interesse atual é evoluir nas áreas de desenvolvimento web front-end e UI/UX design.
-
-## design skills 💡
-<div>
- <img src="https://img.shields.io/badge/Photoshop-2a3038?style=for-the-badge&logo=adobephotoshop&logoColor=white">
- <img src="https://img.shields.io/badge/Illustrator-2a3038?style=for-the-badge&logo=adobeillustrator&logoColor=white">
- <img src="https://img.shields.io/badge/After Effects-2a3038?style=for-the-badge&logo=adobeaftereffects&logoColor=white">
- <img src="https://img.shields.io/badge/Figma-2a3038?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
-## programming skills 💻
+skills 💻
 <div>
  <img src="https://img.shields.io/badge/JavaScript-2a3038?style=for-the-badge&logo=javascript&logoColor=white">
  <img src="https://img.shields.io/badge/TypeScript-2a3038?style=for-the-badge&logo=typescript&logoColor=white">
